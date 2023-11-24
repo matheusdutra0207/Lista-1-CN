@@ -21,7 +21,7 @@ A partir de qual valor de n os métodos obtiveram uma precisão de 5 casas decim
 
 ## Derivação Numérica
 
-1. Faça um algoritmo que calcule a derivada numérica da função ```f(x) = e**(-x)*sen(x)``` no ponto ```x = 2``` usando a diferença progressiva, diferença regressiva e diferença central com o ```h = 10**-1```, ```10**-2``` e ```10^-**-4```. Aleém disso, calcule o erro absoluto da aproximação obtida em cada caso.
+1. Faça um algoritmo que calcule a derivada numérica da função ```f(x) = e**(-x)*sen(x)``` no ponto ```x = 2``` usando a diferença progressiva, diferença regressiva e diferença central com o ```h = 10**-1```, ```10**-2``` e ```10^-**-4```. Além disso, calcule o erro absoluto da aproximação obtida em cada caso.
 
 ## Itens necessários para a entrega da lista
 
